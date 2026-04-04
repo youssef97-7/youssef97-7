@@ -27,17 +27,6 @@ I am Youssef Hassib, a Computer Science Sophomore at the Faculty of Computers an
 </div>
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef97-7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef97-7&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef97-7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
 ## 📫 Let's Connect
 
 Whether it's discussing a complex algorithmic problem, collaborating on an exciting project, or just talking tech—my inbox is always open.
