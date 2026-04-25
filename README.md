@@ -13,7 +13,7 @@
 
 <br/>
 
-## 👨‍💻 Who Am I
+## Who Am I
 
 I am Youssef Hassib, a Computer Science Sophomore at the Faculty of Computers and Artificial Intelligence, Cairo University. Based in Giza, Egypt, I have a strong passion for algorithmic problem-solving, competitive programming, and building efficient software. I am constantly challenging myself to learn new technologies and apply my theoretical foundations to real-world applications.
 
