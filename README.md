@@ -32,9 +32,3 @@ I am Youssef Hassib, a Computer Science Sophomore at the Faculty of Computers an
 </div>
 <br/>
 
-## 📫 Let's Connect
-
-Whether it's discussing a complex algorithmic problem, collaborating on an exciting project, or just talking tech—my inbox is always open.
-
-- **Email:** [youssefhassib9771@gmail.com](mailto:youssefhassib9771@gmail.com)
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/youssefhassib977)
