@@ -17,7 +17,7 @@
 
 I am Youssef Hassib, a Computer Science Sophomore at the Faculty of Computers and Artificial Intelligence, Cairo University. Based in Giza, Egypt, I have a strong passion for algorithmic problem-solving, competitive programming, and building efficient software. I am constantly challenging myself to learn new technologies and apply my theoretical foundations to real-world applications.
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
